@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendTrack UI
 
 SpendTrack UI is a simple Python Tkinter GUI app to help you track your expenses visually.
@@ -38,3 +39,7 @@ Try:
 - Adding expenses like Food, Travel
 - Viewing them
 - Quitting and reopening the app to see persistence 
+=======
+# SpendTracker
+SpendTrack is a sleek, Python-based desktop application designed to help users track and manage expenses with ease. Featuring a modern Tkinter GUI, this app allows users to log daily expenses, categorize them, and view a running total all in a clean, intuitive interface.
+>>>>>>> 2aefeb9e070326a2bff1777296b467c93d222016
